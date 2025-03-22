@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://expensetrackinghub.expense-tracking.com/sitemap.xml

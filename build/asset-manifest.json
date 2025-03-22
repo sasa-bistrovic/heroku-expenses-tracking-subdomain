@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79d19d76.css",
+    "main.js": "/static/js/main.933a1dc3.js",
+    "static/js/453.71cd4d42.chunk.js": "/static/js/453.71cd4d42.chunk.js",
+    "static/media/free-plan.jpg": "/static/media/free-plan.7f60673b6bcc7e82a66b.jpg",
+    "static/media/enterprise-plan.jpg": "/static/media/enterprise-plan.450543374363aec29d25.jpg",
+    "static/media/premium-plan.jpg": "/static/media/premium-plan.411265cda528f3525d8c.jpg",
+    "static/media/Professional5.jpg": "/static/media/Professional5.c8c1a9a09a09198dcd59.jpg",
+    "static/media/Professional3.jpg": "/static/media/Professional3.575729b4bf997f4e138d.jpg",
+    "static/media/Professional2.jpg": "/static/media/Professional2.ed89c65bdd92b74db0ab.jpg",
+    "static/media/Professional4.jpg": "/static/media/Professional4.36f879909352f4513ea7.jpg",
+    "static/media/Professional1.jpg": "/static/media/Professional1.9bc41bdcf7d9428304aa.jpg",
+    "static/media/how-to-use.jpg": "/static/media/how-to-use.5f26e45b098d759f4e8b.jpg",
+    "index.html": "/index.html",
+    "main.79d19d76.css.map": "/static/css/main.79d19d76.css.map",
+    "main.933a1dc3.js.map": "/static/js/main.933a1dc3.js.map",
+    "453.71cd4d42.chunk.js.map": "/static/js/453.71cd4d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.933a1dc3.js"
+  ]
+}
